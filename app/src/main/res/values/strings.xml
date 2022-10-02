@@ -2,4 +2,7 @@
     <string name="app_name">7MintuesWorkOut</string>
     <string name="start_image">start image</string>
     <string name="get_ready_for">GET READY FOR</string>
+    <string name="height_in_metre">HEIGHT (in cm)</string>
+    <string name="calculate">Calculate</string>
+    <string name="your_bmi">YOUR BMI</string>
 </resources>

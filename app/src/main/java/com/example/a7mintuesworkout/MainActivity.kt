@@ -3,6 +3,7 @@ package com.example.a7mintuesworkout
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.FrameLayout
 import android.widget.Toast
 import com.example.a7mintuesworkout.databinding.ActivityMainBinding
